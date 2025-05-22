@@ -4,3 +4,4 @@ from .ph_plot_v2 import *
 from .ph_plot_v3 import *
 from .ph_plot_plotly import *
 from .parallel_search import *
+from .psych_chart import *
